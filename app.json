@@ -1,5 +1,8 @@
 {
   "scheme": "acme",
+  "web": {
+    "bundler": "metro"
+  },
   "userInterfaceStyle": "automatic",
   "orientation": "default",
   "plugins": [
