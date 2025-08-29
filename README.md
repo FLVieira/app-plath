@@ -47,12 +47,11 @@ Aplicativo mobile para listagem e inscrição em eventos, construído com React 
 ## 🚀 Como usar
 
 ```sh
-# Clonar o repositório
 git clone <repo-url>
 
-# Instalar dependências
 yarn install
 
-# Executar no desenvolvimento
+npx expo run:android
+
 yarn start
 ```
