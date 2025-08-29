@@ -1,0 +1,24 @@
+{
+  "scheme": "acme",
+  "userInterfaceStyle": "automatic",
+  "orientation": "default",
+  "web": {
+    "output": "static"
+  },
+  "plugins": [
+    [
+      "expo-router"
+    ],
+    [
+      "expo-dev-client",
+      {
+        "launchMode": "most-recent"
+      }
+    ]
+  ],
+  "name": "events-app",
+  "slug": "events-app",
+  "android": {
+    "package": "com.flvieira.eventsapp"
+  }
+}
